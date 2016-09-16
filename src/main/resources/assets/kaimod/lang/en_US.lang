@@ -1,0 +1,17 @@
+#Items
+item.gemRuby.name=Ruby
+item.gemEmerald.name=Emerald
+item.gemBlueDiamond.name=Blue Diamond
+item.gemGoldenDiamond=Golden Diamond
+item.ingotCopper.name=Copper Ingot
+
+#Blocks
+tile.oreCopper.name=Copper Ore
+
+#Food
+item.corn.name=Corn
+item.cornSeed.name=Corn Seed
+
+
+#Tab
+itemGroup.KaiMod=Kai's Mod
